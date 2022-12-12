@@ -2,46 +2,44 @@
 
 ***
 
-### **Contact Information**
+### **Contact Information:**
 
-#### Phone: +375293301976
+##### Phone: +375293301976
 
-#### E-mail: il064330@gmail.com
+##### E-mail: il064330@gmail.com
 
-#### Telegram: @lrisha25
+##### Telegram: @lrisha25
 
-#### GitHub: @lrisha7
+##### GitHub: @lrisha7
 
-#### [Instagram](https://www.instagram.com/lrinatarget/?igshid=MWM2YjBjM2Q%3D) 
+##### [Instagram](https://www.instagram.com/lrinatarget/?igshid=MWM2YjBjM2Q%3D) 
 
-#### [YuoTube](https://www.youtube.com/@kindfairy8438) 
+##### [YuoTube](https://www.youtube.com/@kindfairy8438) 
 
 ***
-### **Briefly Abaut Myself:**
+### **Briefly About Myself:**
 
 
-#### I live in the amazing city of Mogilev. I am a teacher and I like my job. Since my school years I have been intrested in digital technologies. I adore learning and teaching others. I am sure that my abilities and dedication will help me realize my dream (goal) - to become a Front-end developer
+##### I live in the amazing city Mogilev. I am a teacher and I like my job. I have been intrested in digital technologies since my school years. I adore learning and teaching others. I am sure that my abilities and dedication will help me realize my dream (goal) - to become a Front-End Developer.
 
 ### **Skills:**
-#### Photoshop
+##### Photoshop
 
 ***
 
 ### **Education:**
 
-#### Russian and belarussian - C2
-
-#### Mogilev State University A.Kuleshov
+##### Mogilev State University A.Kuleshov
 
 ***
 
 ### **Languages:**
 
-#### Russian and Belarussian - C2
+##### Russian and Belarussian - C2
 
-#### English - B1
+##### English - B1
 
-#### Spanish and Arabic - A1
+##### Spanish and Arabic - A1
 
 
 
