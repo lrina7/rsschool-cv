@@ -24,6 +24,7 @@
 
 ### **Skills:**
 ##### Photoshop
+№№№№ JS/React
 
 ***
 
@@ -39,7 +40,7 @@
 
 ##### English - B1
 
-##### Spanish and Arabic - A1
+
 
 
 
