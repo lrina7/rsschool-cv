@@ -24,7 +24,7 @@
 
 ### **Skills:**
 ##### Photoshop
-№№№№ JS/React
+#### JS/React
 
 ***
 
