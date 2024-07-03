@@ -1,8 +1,123 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+
 .container {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(234, 245, 242);
+  border: 1px solid red;
+}
+
+.header {
+  background-color: rgb(173, 196, 190);
+  padding: 20px;
+  border: 1px solid red;
+}
+
+.nav__items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.nav__link {
+  padding: 0 30px;
+  line-height: 50px;
+  transition: 0.3s;
+}
+
+.nav__item a {
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: bold;
+  color: #708974;
+  transition: color 0.5s;
+}
+
+.nav__item a:hover {
+  color: #292d29;
+}
+ 
+.main__container {
+  width: 80%;
+  margin: 0 auto;
+  flex: 1 1 auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  border: 1px solid red;
+}
+
+.section {
+width: 50%;
+padding-left: 30px;
+border: 1px solid green;
+}
+
+#profile, #profile__photo {
   text-align: center;
 }
 
-img {
-  width: 10%;
-  border-radius: 20%;
+.myphoto {
+  width: 20%;
+  border-radius: 50%;
+  border: 10px solid white;
 }
+
+.section__title, .title__discr {
+  font-family: "Baskervville SC", serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #42694b;
+}
+
+.text {
+  font-size: 20px;
+}
+
+ span {
+  font-weight: 600;
+ }
+
+ .skills__items {
+  
+ }
+
+.footer {
+  padding: 20px;
+  background-color: rgb(173, 196, 190);
+  border: 1px solid red;
+}
+
+
+
+
+
+.baskervville-sc-regular {
+  font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.lora {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
