@@ -52,7 +52,6 @@ body, html {
   color: #292d29;
   text-decoration: underline;
 }
- 
 .main__container {
   width: 80%;
   margin: 1% 10% 1% 15% ;
@@ -64,7 +63,7 @@ body, html {
 
 .section {
 width: 45%;
-padding-left: 40px;
+padding-left: 5%;
 margin: 10px;
 border-bottom: 3px dotted green;
 border-radius: 10px;
@@ -88,11 +87,8 @@ background-color: rgb(245, 250, 249);
  transform: scale(1.5);
 }
 
-.section__title, .title__discr {
-  font-family: "Baskervville SC", serif;
-  font-weight: 900;
-  font-style: normal;
-  color: #42694b;
+.main__title, .title__discr {
+  font-size: 25px;
 }
 
 .text {
@@ -170,6 +166,13 @@ span {
       width: 60%;
       margin-top: 10%;
      }
+
+      .main__title, .title__discr {
+        font-family: "Baskervville SC", serif;
+        font-weight: 900;
+        font-style: normal;
+        color: #42694b;
+      }
 
   .footer {
       flex-direction: column;
